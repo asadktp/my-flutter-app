@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "668546138810",
+    "project_id": "donaition-app",
+    "storage_bucket": "donaition-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668546138810:android:5c754457eddab85b0c7883",
+        "android_client_info": {
+          "package_name": "com.donaition.superadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668546138810-72khu6bum8f058ad3rm49hk9cpr0o24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9faTLPsBUzvX939e6BIxU-Nq6VbQGB5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668546138810-72khu6bum8f058ad3rm49hk9cpr0o24l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668546138810:android:fa47588e3f5084310c7883",
+        "android_client_info": {
+          "package_name": "com.donationapp.donation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668546138810-72khu6bum8f058ad3rm49hk9cpr0o24l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9faTLPsBUzvX939e6BIxU-Nq6VbQGB5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668546138810-72khu6bum8f058ad3rm49hk9cpr0o24l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

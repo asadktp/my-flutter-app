@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "donaition-app"
+  },
+  "targets": {
+    "donaition-app": {
+      "hosting": {
+        "app": [
+          "donaition-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
